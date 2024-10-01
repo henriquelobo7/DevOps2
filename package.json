@@ -1,6 +1,6 @@
 {
-  "name": "devops2",
-  "version": "1.0.0",
+  "name": "dev",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
